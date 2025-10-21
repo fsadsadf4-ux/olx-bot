@@ -1,4 +1,4 @@
-# olx_monitor_final_v2.py
+# olx_monitor_final.py
 """
 OLX Monitor — финальная стабильная версия для:
   - город: Актау (aktau_5633)
@@ -301,3 +301,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
